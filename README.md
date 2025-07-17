@@ -1,6 +1,20 @@
-# 🌥️ My Journey to Becoming a Cloud Engineer
+<h1>Hi, I'm Latrice!
 
-Welcome to my GitHub! This is where I document my learning journey as I work towards becoming a Cloud Engineer. I'm currently studying Cloud Engineering, and I'm passionate about leveraging technology to do good. 
-### Hi there 👋
+<h2>👨‍💻 Cloud/Software Development Projects:</h2>
 
-In the coming weeks, I will post regularly. Here you will read the concepts I've learned and the projects I have taken on. 
+- <b>Automating CI/CD pipelines in Azure with GitHub Actions</b>
+  - [Practicing CI/DI pipelines](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+<h2>📄Certifications</h2>
+
+  - Microsoft Azure Administrator Associate (in progress)
+  - LPI Linux Essentials Certification
+  - ISC2 Certified in Cybersescurity
+
+<h2>📗 Blog</h2>
+
+- [Chronicling my cloud journey](https://techtosucess.com/)
+
+
+
+
