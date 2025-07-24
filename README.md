@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud/Software Development Projects:</h2>
 
 - <b>Automating CI/CD pipelines in Azure with GitHub Actions</b>
-  - [Practicing CI/DI pipelines](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing CI/DI pipelines](https://github.com/llenoir10/Python-Web-App-to-Azure-App-Service)
  
 <h2>📄Certifications</h2>
 
