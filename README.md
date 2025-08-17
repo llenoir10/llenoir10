@@ -7,7 +7,7 @@
  
 <h2>📄Certifications</h2>
 
-  - Microsoft Azure Administrator Associate (in progress)
+  - Microsoft Azure Administrator Associate (November 2025)
   - LPI Linux Essentials Certification
   - ISC2 Certified in Cybersescurity
 
