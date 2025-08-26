@@ -1,6 +1,7 @@
 <h1>Welcome!<h1>
 
-Hi, My name is Latrice
+Hi, I'm Latrice
+
 Follow me on my journey from administration/customer service to cloud engineering. After years of solving real-world problems for people, I’m now focused on solving them with code—automating infrastructure, building scalable systems, and leveraging the cloud to drive innovation.
 
 I'm actively working on hands-on projects, labs, and certifications to build a solid foundation in cloud and DevOps. Check out my repositories to follow my journey!
