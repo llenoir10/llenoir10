@@ -1,5 +1,5 @@
-<h1>Welcome!<h1>
 
+<h1>Welcome!</h1>
 Hi, I'm Latrice
 
 Follow me on my journey from administration/customer service to cloud engineering. After years of solving real-world problems for people, I’m now focused on solving them with code—automating infrastructure, building scalable systems, and leveraging the cloud to drive innovation.
