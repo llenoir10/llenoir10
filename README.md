@@ -16,13 +16,10 @@ I'm actively working on hands-on projects, labs, and certifications to build a s
  
 <h2>📄Certifications</h2>
 
-  - Microsoft Azure Administrator Associate (November 2025)
+  - Microsoft Azure Administrator Associate (January 2026)
   - LPI Linux Essentials Certification
   - ISC2 Certified in Cybersescurity
 
-<h2>📗 Blog</h2>
-
-- [Chronicling my cloud journey](https://techtosucess.com/)
 
 
 
